@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bedroom>
+  <lamp>
+    <brand>Tekfen</brand>
+    <model>Led</model>
+    <madein>Turkey</madein>
+    <id>3001</id>
+  </lamp>
+  <TV>
+    <brand>Vestel</brand>
+    <model>49FA5000</model>
+    <madein>Turkey</madein>
+    <id>3002</id>
+    <paneltype>LED</paneltype>
+    <resolution>1920 x 1080</resolution>
+  </TV>
+  <AC>
+    <brand>Daikin</brand>
+    <model>FTXN25L9</model>
+    <madein>Germany</madein>
+    <id>3003</id>
+    <coolingcapacity>8600</coolingcapacity>
+    <heatingcapacity>9700</heatingcapacity>
+  </AC>
+  <WP>
+    <brand>Schneider</brand>
+    <model>Asfora</model>
+    <madein>Germany</madein>
+    <id>3004</id>
+    <type>Grounded</type>
+  </WP>
+</bedroom>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bathroom>
+  <lamp>
+    <brand>Tekfen</brand>
+    <model>Led</model>
+    <madein>Turkey</madein>
+    <id>4001</id>
+  </lamp>
+  <WP>
+    <brand>Schneider</brand>
+    <model>Asfora</model>
+    <madein>Germany</madein>
+    <id>4002</id>
+    <type>Grounded</type>
+  </WP>
+  <TP>
+    <brand>Aquamix</brand>
+    <model>Tokyo Kuğu</model>
+    <madein>Turkey</madein>
+    <id>4003</id>
+  </TP>
+  <WM>
+    <brand>Arçelik</brand>
+    <model>8143 CMK</model>
+    <madein>Turkey</madein>
+    <id>4004</id>
+    <capacity>8</capacity>
+    <noofprogram>5</noofprogram>
+  </WM>
+</bathroom>

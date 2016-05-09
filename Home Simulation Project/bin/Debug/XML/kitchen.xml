@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kitchen>
+  <lamp>
+    <brand>Tekfen</brand>
+    <model>Led</model>
+    <madein>Turkey</madein>
+    <id>2001</id>
+  </lamp>
+  <WP>
+    <brand>Schneider</brand>
+    <model>Asfora</model>
+    <madein>Germany</madein>
+    <id>2002</id>
+    <type>Grounded</type>
+  </WP>
+  <DW>
+    <brand>Vestel</brand>
+    <model>BME - M201</model>
+    <madein>Turkey</madein>
+    <id>2003</id>
+    <capacity>12</capacity>
+    <noofprogram>2</noofprogram>
+  </DW>
+  <TP>
+    <brand>Aquamix</brand>
+    <model>Tokyo Kuğu</model>
+    <madein>Turkey</madein>
+    <id>2004</id>
+  </TP>
+  <Oven>
+    <brand>Luxell</brand>
+    <model>LX 7011</model>
+    <madein>Turkey</madein>
+    <id>2005</id>
+    <type>Electrical</type>
+  </Oven>
+</kitchen>

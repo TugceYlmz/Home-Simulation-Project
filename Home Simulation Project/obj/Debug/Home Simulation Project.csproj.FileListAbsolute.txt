@@ -1,0 +1,79 @@
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.exe.config
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.exe
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.pdb
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.csprojResolveAssemblyReference.cache
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Form1.resources
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Properties.Resources.resources
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.csproj.GenerateResource.Cache
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.exe
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.pdb
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Bathroom.resources
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Bedroom.resources
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Kitchen.resources
+c:\users\fatih\documents\visual studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Living_Room.resources
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd01.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd02.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd04.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt01.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt03.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt04.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit01.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit03.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit04.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit05.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live01.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live02.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live03.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\XML\live.xml
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\XML\bathroom.xml
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\XML\bedroom.xml
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\XML\kitchen.xml
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd03.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt02.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit02.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live04.txt
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.exe.manifest
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.application
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.exe.manifest
+C:\Users\Fatih\Documents\Visual Studio 2013\Projects\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.application
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.exe.config
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.exe
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd01.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd02.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd03.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bd04.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt01.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt02.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt03.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\bt04.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit01.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit02.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit04.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit05.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live01.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live02.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live03.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\live04.txt
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\XML\bathroom.xml
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\XML\bedroom.xml
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\XML\kitchen.xml
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\XML\live.xml
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.exe.manifest
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.application
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.exe
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\Home Simulation Project.pdb
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Bathroom.resources
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Bedroom.resources
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Form1.resources
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Kitchen.resources
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Living_Room.resources
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.csproj.GenerateResource.Cache
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.exe.manifest
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.application
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\obj\Debug\Home Simulation Project.pdb
+C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug\saves\kit03.txt
+D:\Yeni klasör (4)\Home Simulation Project\bin\Debug\Home Simulation Project.exe.config
+D:\Yeni klasör (4)\Home Simulation Project\obj\Debug\Home Simulation Project.exe
+D:\Yeni klasör (4)\Home Simulation Project\obj\Debug\Home Simulation Project.pdb
