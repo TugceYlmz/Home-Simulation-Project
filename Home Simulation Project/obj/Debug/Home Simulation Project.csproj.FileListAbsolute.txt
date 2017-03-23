@@ -77,3 +77,14 @@ C:\Users\Fatih\Desktop\Home Simulation Project\Home Simulation Project\bin\Debug
 D:\Yeni klasör (4)\Home Simulation Project\bin\Debug\Home Simulation Project.exe.config
 D:\Yeni klasör (4)\Home Simulation Project\obj\Debug\Home Simulation Project.exe
 D:\Yeni klasör (4)\Home Simulation Project\obj\Debug\Home Simulation Project.pdb
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\bin\Debug\Home Simulation Project.exe.config
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home Simulation Project.exe
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home Simulation Project.pdb
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home Simulation Project.csprojResolveAssemblyReference.cache
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Bathroom.resources
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Bedroom.resources
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Form1.resources
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Kitchen.resources
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Living_Room.resources
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home_Simulation_Project.Properties.Resources.resources
+C:\Users\pc_\Documents\GitHub\Home-Simulation-Project\Home Simulation Project\obj\Debug\Home Simulation Project.csproj.GenerateResource.Cache
